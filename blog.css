@@ -13,9 +13,9 @@ body{
 }
 
 .container{
-    margin: 9.357em auto;
+    margin: 15em auto;
     width: 25em;
-    height: 37.5em;
+    height: 35.5em;
     border: 1px solid #121212;
     border-radius: 20px;
     box-shadow: 8px 8px #121212;
@@ -79,7 +79,7 @@ body{
     font-size: 1rem;
     font-weight: 500;
     line-height: 25px;
-    margin-bottom: 3.75em;
+    margin-bottom: 1em;
 }
 
 .profile{
