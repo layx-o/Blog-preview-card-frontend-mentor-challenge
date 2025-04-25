@@ -15,7 +15,7 @@ body{
 .container{
     margin: 13.5em auto;
     width: 25em;
-    height: 33em;
+    height: 32em;
     border: 1px solid #121212;
     border-radius: 20px;
     box-shadow: 8px 8px #121212;
@@ -58,14 +58,14 @@ body{
     font-size: .875rem;
     font-weight: 500;
     color: #121212;
-    margin-bottom: 20px;
+    margin-bottom: 1em;
 }
 
 #title{
     font-family: 'figtree';
     font-weight: 800;
     color: #121212;
-    margin-bottom: 20px;
+    margin-bottom: .5em;
 }
 
 #title:hover{
@@ -95,14 +95,15 @@ body{
     background: url('./assets/images/image-avatar.webp');
     background-size: cover;
     background-repeat: no-repeat;
-    width: 40px;
-    height: 40px;
-    margin-top: .8em;
+    width: 2em;
+    height: 2em;
+    margin-top: .3em;
 }
 
 #profile-name{
+    font-size: .775rem;
     margin-left: .5em;
-    margin-top: 1.5em;
+    margin-top: 1em;
 }
 
 .attribution{
