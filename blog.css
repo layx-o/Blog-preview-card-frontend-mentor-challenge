@@ -157,19 +157,19 @@ body{
     #txt-body{
         font-size: .875rem;
         line-height: 20px;
-        margin-bottom: 7em;
+        margin-bottom: 1em;
     }
 
     #profile-img{
         max-width: 30px;
         max-height: 30px;
-        margin-top: 2em;
+        margin-top: .25em;
     }
 
     #profile-name{
         font-size: .575rem;
         margin-left: .5em;
-        margin-top: 4.5em;
+        margin-top: 1.5em;
     }
 
     .attribution{
